@@ -1,4 +1,4 @@
-# Documento Readme.md (esto es un titulo)
+# Documento Readme.md
 
 Al principio el poder subir todos los documentos al repositorio se me ha hecho muy complicado. 
 He creado, en primer lugar, todos los archivos en una carpeta local de mi equipo en formato texto plano con el programa _"notepad"_ de _Windows_. A través de **Archivo-->Guardar como** los he ido guardando sin extensión y con títulos referentes al contenido.
