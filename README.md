@@ -15,6 +15,7 @@ Los documentos subidos son:
 * LaTex
 * PostScript
 * RTF
+* XML
 
 He encontrado información sobre LaTex en wikipedia que me ha parecido *[interesante](https://es.wikipedia.org/wiki/LaTeX)*
 
